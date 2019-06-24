@@ -32,4 +32,6 @@ author_profile: true
 
 # Theses
 
-* [_"Stochastic modeling and methods for portfolio management in cointegrated markets,"_](files/pub/2014Angoshtari.pdf)
+* [_"Stochastic modeling and methods for portfolio management in cointegrated markets,"_](files/2014Angoshtari.pdf), D.Phil. Thesis, University of Oxford, 2014.
+
+* [_"On utility of wealth maximization,"_](files/2009Angoshtari.pdf), M.Sc. Thesis, University of Twente, 2009.
