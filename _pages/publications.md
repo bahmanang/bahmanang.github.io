@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Publications
+
 <div class="txt ">
 <h1>Publications</h1>
 <p><br></p>
