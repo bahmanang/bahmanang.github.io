@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bahman Angoshtari"
   avatar           : "Dubs_and_I.jpeg"
-  bio              : "Research Associate at the Department of Applied Mathematics, teaching financial data science and ML in the CFRM program, doing research in Actuarial and Financial Mathematics"
-  location         : ""
-  employer         : ""
+  bio              : "Research Associate at the Department of Applied Mathematics, University of Washington, Seattle"
+  location         : 
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UHZe7AsAAAAJ&hl=en"
   email            : "bahmang@uw.edu"
