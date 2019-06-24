@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bahman Angoshtari"
+title: 
 excerpt: "Bahman Angoshtari"
 author_profile: true
 redirect_from: 
