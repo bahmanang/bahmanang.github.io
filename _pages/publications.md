@@ -28,3 +28,8 @@ author_profile: true
 * [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, under review. 
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
+
+
+# Theses
+
+* [_"Stochastic modeling and methods for portfolio management in cointegrated markets,"_](files/pub/2014Angoshtari.pdf)
