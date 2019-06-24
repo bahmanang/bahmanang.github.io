@@ -18,6 +18,6 @@ author_profile: true
 
 3\. [_"Optimal investment to minimize the probability of drawdown,"_](http://arxiv.org/abs/1506.00166) with Erhan Bayraktar and Virginia Young, _Stochastics_, 88(6):946-958, 2016.
 
-2\. [_"Minimizing the probability of lifetime drawdown under constant consumption,"_](http://arxiv.org/abs/1506.00166) with Erhan Bayraktar and Virginia Young, _Insurance: Mathematics and Economics_, 69:210-223, 2016.
+2\. [_"Minimizing the probability of lifetime drawdown under constant consumption,"_](http://arxiv.org/abs/1507.08713) with Erhan Bayraktar and Virginia Young, _Insurance: Mathematics and Economics_, 69:210-223, 2016.
 
-1\. [_"Minimizing the expected lifetime spent in drawdown under proportional consumption,"_](http://arxiv.org/abs/1506.00166) with Erhan Bayraktar and Virginia Young, _Finance Research Letters_, 15:106-114, 2015.
+1\. [_"Minimizing the expected lifetime spent in drawdown under proportional consumption,"_](http://arxiv.org/abs/1508.01914) with Erhan Bayraktar and Virginia Young, _Finance Research Letters_, 15:106-114, 2015.
