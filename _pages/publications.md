@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 # Publications
-	5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, to appear (2019). 
+5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, to appear (2019). 
 
 <ol>
   <li value="5">
