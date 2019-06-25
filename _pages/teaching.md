@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,32 +11,32 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# University of Washington
+## University of Washington
 
-* **Machine Learning for Finance (CFRM 521)**, Spring 2018, 2019.
+* _"Machine Learning for Finance (CFRM 521)"_, Spring 2018, 2019.
 
-* **Financial Data Science (CFRM 502)**, Winter 2018, 2019.
+* _"Financial Data Science (CFRM 502)"_, Winter 2018, 2019.
 
-* **Intro. to Computational Finance and Financial Econometrics (CFRM 420)**, Summer 2018.
+* _"Intro. to Computational Finance and Financial Econometrics (CFRM 420)"_, Summer 2018.
 
-* **Probability and Statistics for Computational Finance (CFRM 410)**, Winter 2019.
-
-
-# University of Michigan
-
-* **Introduction to Probability (MATH 425)**, Spring 2017.
-
-* **Mathematics of Finance (MATH 423)**, Fall 2016, and Winter 2017.
-
-* **Numerical Methods with Financial Applications (MATH 472)**, Fall 2015.
-
-* **Discrete State Stochastic Processes (MATH/STAT 526)**, Fall 2014, Winter 2015, Winter 2016.
-
-* **Calculus I (MATH 115)**, Fall 2014.
+* _"Probability and Statistics for Computational Finance (CFRM 410)"_, Winter 2019.
 
 
-# University of Oxford
+## University of Michigan
 
-* Tutor for **Stochastic Control and Dynamic Asset Allocation**, Winter 2011. 
+* _"Introduction to Probability (MATH 425)"_, Spring 2017.
 
-* Teaching assistant for **Martingales Through Measure Theory**, Fall 2010.
+* _"Mathematics of Finance (MATH 423)"_, Fall 2016, and Winter 2017.
+
+* _"Numerical Methods with Financial Applications (MATH 472)"_, Fall 2015.
+
+* _"Discrete State Stochastic Processes (MATH/STAT 526)"_, Fall 2014, Winter 2015, Winter 2016.
+
+* _"Calculus I (MATH 115)"_, Fall 2014.
+
+
+## University of Oxford
+
+* Tutor for _"Stochastic Control and Dynamic Asset Allocation"_, Winter 2011. 
+
+* Teaching assistant for _"Martingales Through Measure Theory"_, Fall 2010.
