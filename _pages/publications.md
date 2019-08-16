@@ -23,11 +23,15 @@ author_profile: true
 1\. [_"Minimizing the expected lifetime spent in drawdown under proportional consumption,"_](http://arxiv.org/abs/1508.01914) with Erhan Bayraktar and Virginia Young, _Finance Research Letters_, 15:106-114, 2015.
 
 
-# Preprints
+# Preprints & Working Papers
 
 * [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, under review. 
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
+
+* _"Optimal Trading of a Basket of Futures Contracts,"_ with Tim Leung, under preparation.
+
+* _"Optimal Consumption under Habit Formation Based on Average Past Consumption,"_ with Erhan Bayraktar and Virginia Young, under preparation.
 
 
 # Theses
