@@ -1,4 +1,4 @@
-## Where things are
+# Where things are
 
 Contents are in `/_pages/` folder. Particularly:
 
