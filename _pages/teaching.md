@@ -12,10 +12,11 @@ author_profile: true
 {% endfor %} -->
 
 ## University of Washington
+* _"Introduction to Financial Markets (CFRM 415)"_, Spring 2020.
 
-* _"Machine Learning for Finance (CFRM 521)"_, Spring 2018, 2019.
+* _"Machine Learning for Finance (CFRM 521)"_, Spring 2018, 2019, 2020.
 
-* _"Financial Data Science (CFRM 502)"_, Winter 2018, 2019.
+* _"Financial Data Science (CFRM 502)"_, Winter 2018, 2019, 2020.
 
 * _"Intro. to Computational Finance and Financial Econometrics (CFRM 420)"_, Summer 2018.
 

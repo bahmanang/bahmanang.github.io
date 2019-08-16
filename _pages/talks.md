@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-* 2nd Biennial Meeting of SIAM Pacific Northwest Section, Oct. 2019.
+* 2nd Biennial Meeting of SIAM Pacific Northwest Section, Seattle, Oct. 2019.
 
 * Applied Mathematics: The Next 50 Years, University of Washington, Seattle, June 2019.
 
