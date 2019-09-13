@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 # Publications
-5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, to appear (2019). 
+5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, 15(3):307-335, 2019. 
 
 4\. [_"Optimal dividend policies under ratcheting and drawdown constraints on dividends,"_](http://arxiv.org/abs/1806.07499) with Erhan Bayraktar and Virginia Young, _SIAM J. Financial Mathematics_, 10(2):547--577, 2019. 
 
