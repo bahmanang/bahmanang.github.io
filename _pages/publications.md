@@ -12,9 +12,12 @@ author_profile: true
 {% endfor %} -->
 
 # Publications
+
+6\. [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, to appear in _SIAM Journal on Control and Optimization_. 
+
 5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, 15(3):307-335, 2019. 
 
-4\. [_"Optimal dividend policies under ratcheting and drawdown constraints on dividends,"_](http://arxiv.org/abs/1806.07499) with Erhan Bayraktar and Virginia Young, _SIAM J. Financial Mathematics_, 10(2):547--577, 2019. 
+4\. [_"Optimal dividend policies under ratcheting and drawdown constraints on dividends,"_](http://arxiv.org/abs/1806.07499) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 10(2):547--577, 2019. 
 
 3\. [_"Optimal investment to minimize the probability of drawdown,"_](http://arxiv.org/abs/1506.00166) with Erhan Bayraktar and Virginia Young, _Stochastics_, 88(6):946-958, 2016.
 
@@ -24,8 +27,6 @@ author_profile: true
 
 
 # Preprints & Working Papers
-
-* [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, under review. 
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
 
