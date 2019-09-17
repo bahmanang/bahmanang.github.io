@@ -34,6 +34,8 @@ author_profile: true
 
 * _"Optimal Consumption under Habit Formation Based on Average Past Consumption,"_ with Erhan Bayraktar and Virginia Young, under preparation.
 
+* _"Optimal Portfolio Management under a Constraint on Realized Sharpe Ratio,"_ under preparation.
+
 
 # Theses
 
