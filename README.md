@@ -10,6 +10,8 @@ Contents are in `/_pages/` folder. Particularly:
 
 * Teaching page: `/_pages/teaching.md`
 
+* To change the photo, see '/_config.yml' under '# Site Author'
+
 
 Additional files, including the CV, is in `/files/`.
 

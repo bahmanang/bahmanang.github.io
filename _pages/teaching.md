@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 ## University of Washington
-* _"Introduction to Financial Markets (CFRM 415)"_, Spring 2020.
+* _"Monte Carlo Methods in Finance (CFRM 505)"_, Spring 2020.
 
 * _"Machine Learning for Finance (CFRM 521)"_, Spring 2018, 2019, 2020.
 
