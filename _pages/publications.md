@@ -28,7 +28,7 @@ author_profile: true
 
 # Preprints & Working Papers
 
-* [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943), under review.
+* [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943), with Tim Leung, under review.
 
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
