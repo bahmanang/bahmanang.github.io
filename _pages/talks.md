@@ -17,6 +17,10 @@ author_profile: true
 
 * Financial Mathematics Seminar, University of Michigan, Ann Arbor, Dec. 2019.
 
+* Department of Mathematics Colloquium, University of Miami, Coral Gables, Dec. 2019.
+	
+* Department of Mathematics Colloquium, California State University, Fullerton, Dec. 2019.
+
 * INFORMS annual meeting, Seattle, Oct. 2019. 
 
 * 2nd Biennial Meeting of SIAM Pacific Northwest Section, Seattle, Oct. 2019.

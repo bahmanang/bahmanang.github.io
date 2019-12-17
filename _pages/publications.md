@@ -13,6 +13,8 @@ author_profile: true
 
 # Publications
 
+7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943), with Tim Leung, to appear in  _Annals of Finance_. 
+
 6\. [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, to appear in _SIAM Journal on Control and Optimization_. 
 
 5\. [_"Optimal Dynamic Basis Trading,"_](https://arxiv.org/abs/1809.05961) with Tim Leung, _Annals of Finance_, 15(3):307-335, 2019. 
@@ -27,9 +29,6 @@ author_profile: true
 
 
 # Preprints & Working Papers
-
-* [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943), with Tim Leung, under review.
-
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
 
