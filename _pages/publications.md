@@ -30,11 +30,11 @@ author_profile: true
 
 # Preprints & Working Papers
 
-* [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), under review.
-
 * _"Optimal Consumption under Habit Formation Based on Average Past Consumption,"_ with Erhan Bayraktar and Virginia Young, under preparation.
 
 * _"Optimal Portfolio Management under a Constraint on Realized Sharpe Ratio,"_ under preparation.
+
+* [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), preprint (2016).
 
 
 # Theses
