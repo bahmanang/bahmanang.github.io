@@ -34,7 +34,7 @@ author_profile: true
 
 * _"Optimal Portfolio Management under a Constraint on Realized Sharpe Ratio,"_ under preparation.
 
-* [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268), preprint (2016).
+* [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268) preprint (2016).
 
 
 # Theses
