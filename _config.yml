@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bahman Angoshtari"
-description              : &description "Research Associate"
+description              : &description "Assistant Professor"
 url                      : https://bahmanang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bahmanang/bahmanang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bahman Angoshtari"
   avatar           : "Portrait.jpg"
-  bio              : "Research Associate Department of Applied Mathematics, University of Washington, Seattle"
+  bio              : "Assistant Professor Department of Mathematics, University of Miami, Coral Gables"
   location         : 
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UHZe7AsAAAAJ&hl=en"
-  email            : "bahmang@uw.edu"
+  email            : "bangoshtari@miami.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
