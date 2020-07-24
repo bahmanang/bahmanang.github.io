@@ -273,7 +273,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 
 # Archives
 #  Type
