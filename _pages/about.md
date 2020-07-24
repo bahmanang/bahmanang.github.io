@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /
 title: "About me" 
 excerpt: "Bahman Angoshtari"
