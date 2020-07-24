@@ -5,9 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Themes:
-theme: jekyll-theme-architect
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
@@ -276,6 +273,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+theme: jekyll-theme-architect
 
 # Archives
 #  Type
