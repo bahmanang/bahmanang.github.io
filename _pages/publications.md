@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: Publications 
 permalink: /publications/
 author_profile: true
 ---
@@ -10,8 +10,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-# Publications
 
 7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943) with Tim Leung, to appear in  _Annals of Finance_. 
 
