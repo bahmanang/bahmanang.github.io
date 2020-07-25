@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## University of Miami
+* _"Optimization Methods (MTH 645)"_, Fall 2020.
+* _"Introduction to Mathematical Finance (MTH 547/647)"_, Fall 2020.
+
 ## University of Washington
 * _"Monte Carlo Methods in Finance (CFRM 505)"_, Winter 2020.
 
