@@ -50,7 +50,7 @@ $type-size-8                : 0.625em;  // ~10px
 //To change theme: sunrise//Dark//default
 
 $gray                       : #7a8288;
-$dark-gray                  : #0e2431 !default;//mix(#000, $gray, 40%);//mix(#000, $gray, 40%);
+$dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
@@ -64,8 +64,7 @@ $code-background-color-dark : mix(#000, $background-color, 10%) !default; //mix(
 $form-background-color      : mix(#fff, $background-color, 15%) !default; //Delete line // Delete line
 $footer-background-color    : #005032 !default; // Delete line // Delete line
 $footer-text-color          : #FF5D1B; // Delete line // Delete line
-$text-color                 : #000 !default; //#eaeaea; //$dark-gray;
-$muted-text-color           : $dark-gray !default; // Delete line // Delete line
+$text-color                 : $dark-gray;
 $border-color               : mix(#000, $background-color, 20%) !default; //mix(#fff, $background-color, 20%); //$lighter-gray;
 
 $primary-color              : #FF5D1B; //#8cd2d5; //#7a8288;
