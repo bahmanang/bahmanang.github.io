@@ -102,7 +102,7 @@ $link-color                 : $info-color;//mix(#000, $primary-color, 10%) !defa
 $link-color-hover           : mix(#fff, $link-color, 25%) !default; //mix(#000, $link-color, 25%) !default; //mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#000, $link-color, 25%) !default; //mix(#fff, $link-color, 15%) !default; //mix(#fff, $link-color, 25%);
 $masthead-link-color        : #FFFFFF !default; //$primary-color !default; //$primary-color;
-$masthead-link-color-hover  : mix(#000, $text-color, 20%) !default; //mix(#000, $primary-color, 25%) !default; //mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : #FF5D1B; //mix(#000, $primary-color, 25%) !default; //mix(#000, $primary-color, 25%);
 $navicon-link-color-hover   : mix(#000, $background-color, 30%) !default; //mix(#fff, $primary-color, 75%) !default; //Delete line
 
 /* sunrise syntax highlighting (base16) */ //Remove for other skins
