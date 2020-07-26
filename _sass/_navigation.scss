@@ -209,10 +209,10 @@
 
       &:first-child {
         font-weight: bold;
-        color: $nav-text-color;
-
+        
         a {
           margin-left: 0;
+          color: $nav-text-color;
         }
       }
 
