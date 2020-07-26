@@ -206,21 +206,18 @@
     li {
       display: table-cell;
       vertical-align: middle;
-      color: $nav-text-color;
 
       &:first-child {
         font-weight: bold;
         
         a {
           margin-left: 0;
-          color: $nav-text-color;
         }
       }
 
       &:last-child {
         a {
           margin-right: 0;
-          color: $nav-text-color;
         }
       }
     }
