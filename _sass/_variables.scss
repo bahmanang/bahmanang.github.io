@@ -95,9 +95,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : mix(#000, $primary-color, 10%) !default; //mix(#000, $info-color, 15%) !default; //$info-color;
-$link-color-hover           : mix(#fff, $link-color, 25%) !default; //mix(#000, $link-color, 25%) !default; //mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#000, $link-color, 25%) !default; //mix(#fff, $link-color, 15%) !default; //mix(#fff, $link-color, 25%);
+$link-color                 : $info-color;//mix(#000, $primary-color, 10%) !default; //mix(#000, $info-color, 15%) !default; //$info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);//mix(#fff, $link-color, 25%) !default; //mix(#000, $link-color, 25%) !default; //mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);//mix(#000, $link-color, 25%) !default; //mix(#fff, $link-color, 15%) !default; //mix(#fff, $link-color, 25%);
 $masthead-link-color        : $text-color !default; //$primary-color !default; //$primary-color;
 $masthead-link-color-hover  : mix(#000, $text-color, 20%) !default; //mix(#000, $primary-color, 25%) !default; //mix(#000, $primary-color, 25%);
 $navicon-link-color-hover   : mix(#000, $background-color, 30%) !default; //mix(#fff, $primary-color, 75%) !default; //Delete line
