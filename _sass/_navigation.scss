@@ -203,14 +203,13 @@
 
   .visible-links {
     display: table;
-    color: $nav-text-color;
-
     li {
       display: table-cell;
       vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
+        color: $nav-text-color;
 
         a {
           margin-left: 0;
