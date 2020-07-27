@@ -12,8 +12,11 @@ Contents are in `/_pages/` folder. Particularly:
 
 * To change the photo, see '/_config.yml' under '# Site Author'
 
+* Additional files, including the CV, is in `/files/`.
 
-Additional files, including the CV, is in `/files/`.
+* Navigation bar is controlled by `/_data/navigation.yml`.
+
+* All other style elements are controled by various `.scss` files in `/_sass/`. Particularly, most colors and fonts are set in `/_sass/_variables.scss`. 
 
 
 ### Original README:
