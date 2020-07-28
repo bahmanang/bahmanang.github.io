@@ -62,8 +62,8 @@ $background-color           : #fff;
 $code-background-color      : mix(#fff, $background-color, 20%) !default; //mix(#000, $background-color, 15%); //#fafafa;
 $code-background-color-dark : mix(#000, $background-color, 10%) !default; //mix(#000, $background-color, 20%); //$light-gray;
 $form-background-color      : mix(#fff, $background-color, 15%) !default; //Delete line // Delete line
-$footer-background-color    : #FF5D1B; // Delete line // Delete line
-$footer-text-color          : #005032; // Delete line // Delete line
+$footer-background-color    : #005032 !default; // Delete line // Delete line
+$footer-text-color          : #FF5D1B; // Delete line // Delete line
 $text-color                 : $dark-gray;
 $border-color               : mix(#000, $background-color, 20%) !default; //mix(#fff, $background-color, 20%); //$lighter-gray;
 
