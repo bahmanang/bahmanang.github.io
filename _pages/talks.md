@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* Financial Mathematics Seminar, University of Michigan, Ann Arbor, Nov. 2020.
+
 * Financial Mathematics Seminar, University of Michigan, Ann Arbor, Dec. 2019.
 
 * Department of Mathematics Colloquium, University of Miami, Coral Gables, Dec. 2019.
