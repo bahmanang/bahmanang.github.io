@@ -27,10 +27,9 @@ author_profile: true
 
 
 # Preprints & Working Papers
+* _"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation," with Virginia Young (2020).
 
-* _"Optimal Consumption under Habit Formation Based on Average Past Consumption,"_ with Erhan Bayraktar and Virginia Young, under preparation.
-
-* _"Optimal Portfolio Management under a Constraint on Realized Sharpe Ratio,"_ under preparation.
+* [_"Optimal Consumption under a Habit-Formation Constraint,"](http://arxiv.org/abs/1608.08268) with Erhan Bayraktar and Virginia Young (2020).
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268) preprint (2016).
 
