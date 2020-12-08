@@ -27,7 +27,7 @@ author_profile: true
 
 
 # Preprints & Working Papers
-* _"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_ with Virginia Young (2020).
+* [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (2020).
 
 * [_"Optimal Consumption under a Habit-Formation Constraint,"_](http://arxiv.org/abs/1608.08268) with Erhan Bayraktar and Virginia Young (2020).
 
