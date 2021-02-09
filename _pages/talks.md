@@ -15,7 +15,13 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-* Financial Mathematics Seminar, University of Michigan, Ann Arbor, Nov. 2020.
+* SIAM Conference on Financial Mathematics and Engineering, Philadelphia, June 2021
+	
+* AMS Spring Eastern Sectional Meeting (virtual), Mar. 2021
+	
+* Stochastic Finance Seminars (virtual), University of Warwick, Coventry, Feb. 2021
+
+* Financial Mathematics Seminar (virtual), University of Michigan, Ann Arbor, Nov. 2020.
 
 * Financial Mathematics Seminar, University of Michigan, Ann Arbor, Dec. 2019.
 
