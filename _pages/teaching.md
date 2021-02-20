@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 ## University of Miami
-* _"Stochastic Calculus with Application to Finance (MTH 648),"_ Spring 2020.
+* _"Stochastic Calculus with Application to Finance (MTH 648),"_ Spring 2021.
 * _"Optimization Methods (MTH 645),"_ Fall 2020.
 * _"Introduction to Mathematical Finance (MTH 547/647),"_ Fall 2020.
 * _"Topics in Mathematics-Quant. Finance (MTH 693),"_ Fall 2020.
