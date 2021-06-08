@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-* SIAM Conference on Financial Mathematics and Engineering, Philadelphia, June 2021
+* SIAM Conference on Financial Mathematics and Engineering (virtual), June 2021
 	
 * AMS Spring Eastern Sectional Meeting (virtual), Mar. 2021
 	
