@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* Mathematical Finance Seminar (virtual), Florida State University, Tallahassee, Nov. 2021
+
 * SIAM Conference on Financial Mathematics and Engineering (virtual), June 2021
 	
 * AMS Spring Eastern Sectional Meeting (virtual), Mar. 2021
