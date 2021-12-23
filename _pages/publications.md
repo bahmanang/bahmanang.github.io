@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+*  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2102.03414) with Erhan Bayraktar and Virginia Young, to appear in _SIAM Journal on Financial Mathematics_.
+
 7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943) with Tim Leung, _Annals of Finance_, 16(2):253–280, 2020. 
 
 6\. [_"Predictable forward utility: the binomial case,"_](http://arxiv.org/abs/1611.04494) with Thaleia Zariphopoulou and Xun Yu Zhou, _SIAM Journal on Control and Optimization_, 58(1):327–347, 2020. 
