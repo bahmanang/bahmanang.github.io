@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-8\.  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2102.03414) with Erhan Bayraktar and Virginia Young, to appear in _SIAM Journal on Financial Mathematics_.
+8\.  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2102.03414) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 13(1):321--352, 2022. 
 
 7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943) with Tim Leung, _Annals of Finance_, 16(2):253–280, 2020. 
 
