@@ -30,6 +30,8 @@ author_profile: true
 
 # Preprints & Working Papers
 
+* [_"Predictable Forward Performance Processes in Complete Markets,"_](https://arxiv.org/abs/2206.03608) preprint (June-2022).
+
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (2020).
 
 * [_"Optimal Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2012.02277) with Erhan Bayraktar and Virginia Young (2020).
