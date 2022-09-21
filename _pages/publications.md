@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+9\.  [_"Predictable Forward Performance Processes in Complete Markets,"_](https://arxiv.org/abs/2206.03608) to appear in _Probability, Uncertainty and Quantitative Risk_, 2022+. 
+
 8\.  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2102.03414) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 13(1):321--352, 2022. 
 
 7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](http://arxiv.org/abs/1910.04943) with Tim Leung, _Annals of Finance_, 16(2):253–280, 2020. 
@@ -29,8 +31,6 @@ author_profile: true
 
 
 # Preprints & Working Papers
-
-* [_"Predictable Forward Performance Processes in Complete Markets,"_](https://arxiv.org/abs/2206.03608) preprint (June-2022).
 
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (2020).
 
