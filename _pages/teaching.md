@@ -12,13 +12,11 @@ author_profile: true
 {% endfor %} -->
 
 ## University of Miami
-* _"Introduction to Probability and Statistics (MTH 224),"_ Fall 2021.
-* _"Topics in Mathematics-ML in Finance (MTH 692),"_ Fall 2021.
-* _"Optimization Methods (MTH 645),"_ Fall 2021.
+* _"Introduction to Probability and Statistics (MTH 224),"_ Fall 2021, Fall 2022.
+* _"Topics in Mathematics-ML in Finance (MTH 692/693),"_ Fall 2020, Fall 2021.
+* _"Optimization Methods (MTH 645),"_ Fall 2020, Fall 2021.
 * _"Stochastic Calculus with Application to Finance (MTH 648),"_ Spring 2021.
-* _"Optimization Methods (MTH 645),"_ Fall 2020.
 * _"Introduction to Mathematical Finance (MTH 547/647),"_ Fall 2020.
-* _"Topics in Mathematics-Quant. Finance (MTH 693),"_ Fall 2020.
 
 ## University of Washington
 * _"Monte Carlo Methods in Finance (CFRM 505),"_ Winter 2020.
