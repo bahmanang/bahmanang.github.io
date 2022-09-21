@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* AMS Southeastern Sectional Meeting, Georgia Institute of Technology, Atlanta, Mar. 2023
+	
+* AMS Joint Mathematics Meetings, Boston, Jan. 2023
+
+* Department of Mathematics Colloquium, Wichita State University, Oct. 2022
+
 * Mathematical Finance Seminar (virtual), Florida State University, Tallahassee, Nov. 2021
 
 * SIAM Conference on Financial Mathematics and Engineering (virtual), June 2021
