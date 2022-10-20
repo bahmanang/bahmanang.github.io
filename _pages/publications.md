@@ -32,7 +32,7 @@ author_profile: true
 
 # Preprints & Working Papers
 
-* [_"Optimal Consumption under a Habit-Formation Constraint,"_](https://arxiv.org/abs/2012.02277) with Erhan Bayraktar and Virginia Young (last update: May 2021).
+* [_"Optimal Consumption under a Habit-Formation Constraint: the Deterministic Case,"_](https://arxiv.org/abs/2012.02277) with Erhan Bayraktar and Virginia Young (last update: October 2022).
 
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (last update: Dec. 2020).
 
