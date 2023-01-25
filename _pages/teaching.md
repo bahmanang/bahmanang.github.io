@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 ## University of Miami
-* _"Introduction to Probability and Statistics (MTH 224),"_ Fall 2021, Fall 2022.
+* _"Introduction to Probability and Statistics (MTH 224),"_ Fall 2021, Fall 2022, Spring 2023.
 * _"Topics in Mathematics-ML in Finance (MTH 692/693),"_ Fall 2020, Fall 2021.
 * _"Optimization Methods (MTH 645),"_ Fall 2020, Fall 2021.
 * _"Stochastic Calculus with Application to Finance (MTH 648),"_ Spring 2021.
