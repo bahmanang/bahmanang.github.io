@@ -26,11 +26,6 @@ author_profile: true
 * SIAM Conference on Financial Mathematics and Engineering (virtual), June 2021
 	
 * AMS Spring Eastern Sectional Meeting (virtual), Mar. 2021
-* AMS Southeastern Sectional Meeting, Georgia Institute of Technology, Atlanta, Mar. 2023
-
-* AMS Joint Mathematics Meetings, Boston, Jan. 2023	
-
-* Department of Mathematics Colloquium, Wichita State University, Oct. 2022
 
 * Stochastic Finance Seminars (virtual), University of Warwick, Coventry, Feb. 2021
 
