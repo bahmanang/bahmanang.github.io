@@ -15,13 +15,13 @@ author_profile: true
 
 8\.  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://epubs.siam.org/doi/abs/10.1137/21M1397891) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 13(1):321--352, 2022. [arXiv:2102.03414](https://arxiv.org/abs/2102.03414) 
 
-7\. [_"Optimal Trading of a Basket of Futures Contracts,"_](https://doi.org/10.1007/s10436-019-00357-w) with Tim Leung, _Annals of Finance_, 16(2):253–280, 2020. [arXiv:1910.04943](http://arxiv.org/abs/1910.04943)
+7\. [_"Predictable Forward Performance Processes: The Binomial Case,"_](https://doi.org/10.1137/18M1188653) with Thaleia Zariphopoulou and Xun Yu Zhou, _SIAM Journal on Control and Optimization_, 58(1):327–347, 2020. [arXiv:1611.04494](http://arxiv.org/abs/1611.04494)  
 
-6\. [_"Predictable Forward Performance Processes: The Binomial Case,"_](https://doi.org/10.1137/18M1188653) with Thaleia Zariphopoulou and Xun Yu Zhou, _SIAM Journal on Control and Optimization_, 58(1):327–347, 2020. [arXiv:1611.04494](http://arxiv.org/abs/1611.04494)  
+6\. [_"Optimal Trading of a Basket of Futures Contracts,"_](https://doi.org/10.1007/s10436-019-00357-w) with Tim Leung, _Annals of Finance_, 16(2):253–280, 2020. [arXiv:1910.04943](http://arxiv.org/abs/1910.04943)
 
-5\. [_"Optimal Dynamic Basis Trading,"_](https://doi.org/10.1007/s10436-019-00348-x) with Tim Leung, _Annals of Finance_, 15(3):307-335, 2019. [arXiv:1809.05961](https://arxiv.org/abs/1809.05961)
+5\. [_"Optimal dividend policies under ratcheting and drawdown constraints on dividends,"_](https://doi.org/10.1137/18M119567X) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 10(2):547--577, 2019. [arXiv:1806.07499](http://arxiv.org/abs/1806.07499)
 
-4\. [_"Optimal dividend policies under ratcheting and drawdown constraints on dividends,"_](https://doi.org/10.1137/18M119567X) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 10(2):547--577, 2019. [arXiv:1806.07499](http://arxiv.org/abs/1806.07499)
+4\. [_"Optimal Dynamic Basis Trading,"_](https://doi.org/10.1007/s10436-019-00348-x) with Tim Leung, _Annals of Finance_, 15(3):307-335, 2019. [arXiv:1809.05961](https://arxiv.org/abs/1809.05961)
 
 3\. [_"Optimal investment to minimize the probability of drawdown,"_](https://doi.org/10.1080/17442508.2016.1155590) with Erhan Bayraktar and Virginia Young, _Stochastics_, 88(6):946-958, 2016. [arXiv:1506.00166](http://arxiv.org/abs/1506.00166) 
 
