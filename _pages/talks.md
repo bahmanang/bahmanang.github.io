@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 * AMS Southeastern Sectional Meeting, Georgia Institute of Technology, Atlanta, Mar. 2023
+
+* Mathematical Finance, Control and Optimization seminars, University of Connecticut, Feb. 2023 
 	
 * AMS Joint Mathematics Meetings, Boston, Jan. 2023
 
