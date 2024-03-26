@@ -13,7 +13,7 @@ author_profile: true
 
 10\.  [_"Optimal Consumption under a Habit-Formation Constraint: the Deterministic Case,"_](https://doi.org/10.1137/22M1471560) with Erhan Bayraktar and Virginia Young,  _SIAM Journal on Financial Mathematics_, 14(2):557-597, 2023. [arXiv:2012.02277](https://arxiv.org/abs/2012.02277)
 
-9\.  [_"Predictable Forward Performance Processes in Complete Markets,"_](https://www.aimsciences.org/article/doi/10.3934/puqr.2023007) to appear in _Probability, Uncertainty and Quantitative Risk_. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
+9\.  [_"Predictable Forward Performance Processes in Complete Markets,"_](https://www.aimsciences.org/article/doi/10.3934/puqr.2023007) _Probability, Uncertainty and Quantitative Risk_, 8(2):141--176, 2023. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
 
 8\.  [_"Optimal Investment and Consumption under a Habit-Formation Constraint,"_](https://epubs.siam.org/doi/abs/10.1137/21M1397891) with Erhan Bayraktar and Virginia Young, _SIAM Journal on Financial Mathematics_, 13(1):321--352, 2022. [arXiv:2102.03414](https://arxiv.org/abs/2102.03414) 
 
