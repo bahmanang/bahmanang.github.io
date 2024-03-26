@@ -33,6 +33,7 @@ author_profile: true
 
 
 # Preprints & Working Papers
+* [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://arxiv.org/abs/2403.16228) with Shida Duan (last update: Mar. 2024).
 
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (last update: Dec. 2020).
 
