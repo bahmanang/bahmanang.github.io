@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* 7th Eastern Conference on Math. Finance, North Carolina State University, Raleigh, Oct. 2023
+
 * AMS Southeastern Sectional Meeting, Georgia Institute of Technology, Atlanta, Mar. 2023
 
 * Mathematical Finance, Control and Optimization seminars, University of Connecticut, Feb. 2023 
