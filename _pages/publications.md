@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+11\.  [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://doi.org/10.3934/puqr.2024010) with Shida Duan, _Probability, Uncertainty and Quantitative Risk_, 8(2):141--176, 2023. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
+
 10\.  [_"Optimal Consumption under a Habit-Formation Constraint: the Deterministic Case,"_](https://doi.org/10.1137/22M1471560) with Erhan Bayraktar and Virginia Young,  _SIAM Journal on Financial Mathematics_, 14(2):557-597, 2023. [arXiv:2012.02277](https://arxiv.org/abs/2012.02277)
 
 9\.  [_"Predictable Forward Performance Processes in Complete Markets,"_](https://www.aimsciences.org/article/doi/10.3934/puqr.2023007) _Probability, Uncertainty and Quantitative Risk_, 8(2):141--176, 2023. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
@@ -33,7 +35,7 @@ author_profile: true
 
 
 # Preprints & Working Papers
-* [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://arxiv.org/abs/2403.16228) with Shida Duan (last update: Mar. 2024).
+* [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: June 2024).
 
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (last update: Dec. 2020).
 
