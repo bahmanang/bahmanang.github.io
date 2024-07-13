@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* 12th Bachelier World Congress, Rio de Janeiro, July 2024
+
+* 37th New England Statistics Symposium, University of Connecticut, Storrs, May 2024
+
 * 7th Eastern Conference on Math. Finance, North Carolina State University, Raleigh, Oct. 2023
 
 * AMS Southeastern Sectional Meeting, Georgia Institute of Technology, Atlanta, Mar. 2023
