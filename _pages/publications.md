@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Under review:
+* [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: June 2024).
+
+# Published work
 11\.  [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://doi.org/10.3934/puqr.2024010) with Shida Duan, _Probability, Uncertainty and Quantitative Risk_, 9(2):181--218, 2024. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
 
 10\.  [_"Optimal Consumption under a Habit-Formation Constraint: the Deterministic Case,"_](https://doi.org/10.1137/22M1471560) with Erhan Bayraktar and Virginia Young,  _SIAM Journal on Financial Mathematics_, 14(2):557-597, 2023. [arXiv:2012.02277](https://arxiv.org/abs/2012.02277)
@@ -34,15 +38,10 @@ author_profile: true
 1\. [_"Minimizing the expected lifetime spent in drawdown under proportional consumption,"_](https://doi.org/10.1016/j.frl.2015.08.010) with Erhan Bayraktar and Virginia Young, _Finance Research Letters_, 15:106-114, 2015. [arXiv:1508.01914](http://arxiv.org/abs/1508.01914)
 
 
-# Preprints & Working Papers
-* [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: June 2024).
-
+# Unpublished work
 * [_"Optimal Insurance to Minimize the Probability of Ruin: Inverse Survival Function Formulation,"_](https://arxiv.org/abs/2012.03798) with Virginia Young (last update: Dec. 2020).
 
 * [_"On the market-neutrality of optimal pairs-trading strategies,"_](http://arxiv.org/abs/1608.08268) preprint (last update: Aug. 2016).
-
-
-# Theses
 
 * [_"Stochastic modeling and methods for portfolio management in cointegrated markets,"_](../files/2014Angoshtari.pdf), D.Phil. Thesis, University of Oxford, 2014.
 
