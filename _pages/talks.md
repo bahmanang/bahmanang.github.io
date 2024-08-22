@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* 1st INFORMS Conference on Financial Engineering and FinTech, Hong Kong Polytechnic University, Hong Kong, August 2024
+
 * 12th Bachelier World Congress, Rio de Janeiro, July 2024
 
 * 37th New England Statistics Symposium, University of Connecticut, Storrs, May 2024
