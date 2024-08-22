@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Publications 
+title: Under review 
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Under review:
 * [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: June 2024).
 
 # Published work
