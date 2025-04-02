@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: June 2024).
+* [_"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_](https://arxiv.org/abs/2406.20063) with Xiang Yu and Fengyi Yuan (last update: April 2025).
 
 # Published work
 11\.  [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://doi.org/10.3934/puqr.2024010) with Shida Duan, _Probability, Uncertainty and Quantitative Risk_, 9(2):181--218, 2024. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
