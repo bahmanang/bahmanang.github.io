@@ -15,6 +15,16 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* Mathematical Congress of the Americas, Miami, July 2025
+
+* SIAM Conference on Financial Mathematics and Engineering, Miami, July 2025
+
+* Byrne B2A2 (Back to Ann Arbor) Conference, University of Michigan, Ann Arbor, June 2025
+
+* Financial Mathematics Seminar, Worcester Polytechnic Institute, Worcester, April 2025
+
+* AMS Spring Eastern Sectional Meeting, Hartford, April 2025
+
 * 8th Eastern Conference on Mathematical Finance, University of Toronto, Toronto, Sep. 2024
 
 * 1st INFORMS Conference on Financial Engineering and FinTech, Hong Kong Polytechnic University, Hong Kong, August 2024
