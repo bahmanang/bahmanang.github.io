@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UHZe7AsAAAAJ&hl=en"
-  email            : "b.angoshtari@math.miami.edu"
+  email            : "bangoshtari@miami.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  SSRN             : "https://ssrn.com/author=2438152"
   wikipedia        :
 
 
