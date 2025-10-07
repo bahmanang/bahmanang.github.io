@@ -17,7 +17,7 @@ author_profile: true
 * _"Topics in Mathematics-ML in Finance (MTH 692/693),"_ Fall 2020, 2021.
 * _"Stochastic Calculus with Application to Finance (MTH 648),"_ Spring 2021, 2025.
 * _"Introduction to Mathematical Finance (MTH 547/647),"_ Fall 2020, 2023, 2025.
-* _"Optimization Methods (MTH 645),"_ Fall 2020, 2021, 2024, 2025.
+* _"Optimization Methods (MTH 645/593),"_ Fall 2020, 2021, 2024, 2025.
 * _"Introduction to Probability and Statistics (MTH 224),"_ Fall 2021, 2022, Spring 2023, 2024.
 
 ## University of Washington
