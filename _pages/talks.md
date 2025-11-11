@@ -14,12 +14,11 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+---
 {%* AMS Southeastern Sectional Meeting, Georgia Southern University, Savanah , March 2026%}
-
 {%* Joint Mathematics Meetings, Washington D.C., January 2026%}
-
 {%* Applied Mathematics and Statistics Seminar, Johns Hopkins University, Baltimore, November 2025%}
-
+---
 * Mathematical Congress of the Americas, Miami, July 2025
 
 * SIAM Conference on Financial Mathematics and Engineering, Miami, July 2025
