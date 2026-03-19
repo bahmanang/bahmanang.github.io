@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* 
+
 # Published work
 12\.  _"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_ with Xiang Yu and Fengyi Yuan, accepted in _SIAM Journal on Financial Mathematics_, 2026+. [arXiv:2406.20063](https://arxiv.org/abs/2406.20063)
 
