@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+* Joint Mathematics Meetings, Washington D.C., January 2026
 
 * Mathematical Congress of the Americas, Miami, July 2025
 
