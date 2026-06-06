@@ -1,9 +1,18 @@
 ---
 layout: archive
+title: Published work
+permalink: /publications/
+author_profile: true
+---
+<!--
+---
+layout: archive
 title: Under review 
 permalink: /publications/
 author_profile: true
 ---
+*
+-->
 
 <!-- {% include base_path %}
 
@@ -11,9 +20,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* 
-
-# Published work
+<!-- # Published work -->
 12\.  _"Optimal consumption under loss-averse multiplicative habit-formation preferences,"_ with Xiang Yu and Fengyi Yuan, accepted in _SIAM Journal on Financial Mathematics_, 2026+. [arXiv:2406.20063](https://arxiv.org/abs/2406.20063)
 
 11\.  [_"Rank-Dependent Predictable Forward Performance Processes,"_](https://doi.org/10.3934/puqr.2024010) with Shida Duan, _Probability, Uncertainty and Quantitative Risk_, 9(2):181--218, 2024. [arXiv:2206.03608](https://arxiv.org/abs/2206.03608)
