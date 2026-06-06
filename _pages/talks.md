@@ -14,6 +14,13 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+
+* 2026 SIAM Annual Meeting, Cleveland, July 2026
+
+* XIII Bachelier World Congress, Bologna, June 2026
+
+* AMS Southeastern Sectional Meeting, Georgia Southern University, Savanah, March 2026
+
 * Joint Mathematics Meetings, Washington D.C., January 2026
 
 * Mathematical Congress of the Americas, Miami, July 2025
